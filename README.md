@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @realattila
-- 
+👋 Hi, I’m @realattila
+
 I am a problem solver, a creative and thoughtful person. I am always looking for challenges that I can solve using the skills I have. My hobbies are programming and online games.
 
 i start programming when i was too young in 12 age with creating basic programming language, when i get into 18, started web developing , my major skill is frontend(reactjs)  but i write code for backend with nodejs in some projects, also i am good in Ui design and user experience. i  have 6 years experience at web developing. 
