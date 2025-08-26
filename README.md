@@ -1,22 +1,33 @@
-Greetings! I'm a dedicated problem solver and creative thinker, always seeking challenges that allow me to leverage my skillset. My passion lies in programming, which has shaped my journey in the tech world. With over 5 years of experience, I've evolved as a developer and a leader, gaining profound insights into the intricacies of the field.
+<!-- Profile README for realattila -->
+<h1 align="center">Hi there! 👋 I'm Attila</h1>
 
-## Professional Skills
+<p align="center">
+A senior front‑end engineer and problem solver with 7+ years of experience crafting fast, accessible web applications.
+</p>
 
-- Frontend Development: Proficient in React, TypeScript, and JavaScript
-- Web Performance Optimization: Expert in improving website speed and responsiveness
-- Problem Solving: Adept at identifying and resolving intricate technical issues
-- UI/UX Design: Skilled at transforming design concepts into intuitive interfaces using Figma and Design-to-Code techniques
-- Mentorship and Collaboration: Experienced in cultivating a collaborative and productive team environment
+## 🧑‍💻 About Me
 
-## What I Bring to Your Organization:
-- Enhanced User Experience: I excel in implementing user-centric designs that boost engagement and usability, contributing to exceptional user experiences.
-- Clean and Readable Code: My coding practices prioritize maintainability and seamless collaboration, ensuring projects remain efficient and adaptable.
-- Effective Collaboration: I naturally foster strong relationships with team members, promoting cohesion and productivity within the work environment.
-- Continuous Learning: My enthusiasm for emerging technologies drives me to continually expand my skillset, ensuring your organization remains at the forefront of innovation.
-- Cost-Efficient Solutions: My expertise in reusable, component-based code accelerates development and minimizes costs by maximizing efficiency.
-- Technical Leadership: Drawing from my leadership experience, I provide a strategic vision that guides projects towards success, motivating teams to deliver results aligned with your organization's goals.
+- I turn complex UI/UX concepts into clean, scalable web apps using **React**, **TypeScript** and **JavaScript**.
+- I focus on performance and usability—optimizing load times and designing intuitive interfaces with Figma and design‑to‑code techniques.
+- I enjoy mentoring developers and building collaborative teams.
 
-## Contact Me
-Email: [98atila@gmail.com](98atila@gmail.com)
-LinkedIn: [linkedin.com/in/attila-peykargalou](linkedin.com/in/attila-peykargalou)
+Over the years I’ve grown CRMs that increased active users by **120 %**, attracted **1,200 new customers** and generated **$3 k** in revenue. I migrated large codebases to TypeScript (reducing build times by **20 %**), boosted cloud service adoption by **43 %**, and drove a **150 %** surge in organic traffic through performance and SEO improvements.
 
+## 🚀 Projects
+
+- **[clean_git_commit_message](https://github.com/realattila/clean_git_commit_message)** – A Bash tool for generating and validating consistent Git commit messages. It installs easily on Windows/macOS/Linux and helps teams maintain clean, standardized commit histories.
+
+## 🛠️ Skills
+
+- **Languages & Frameworks:** React, TypeScript, JavaScript, Next.js, Node.js, HTML5, CSS3
+- **Tools & Platforms:** Git, Docker, Linux, MongoDB, CI/CD
+- **Design & UX:** Figma, responsive design, accessibility
+- **Soft Skills:** Team leadership, mentoring, problem‑solving, Agile/Scrum
+
+## 📫 Contact Me
+
+- **Email:** [realattila2@pm.me](mailto:realattila2@pm.me)
+- **Website:** [realattila.github.io](https://realattila.github.io)
+- **LinkedIn:** [linkedin.com/in/attila-peykargalou](https://linkedin.com/in/attila-peykargalou)
+
+Feel free to connect or reach out if you’d like to discuss front‑end development, open source, or collaboration opportunities!
