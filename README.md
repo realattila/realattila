@@ -1,33 +1,84 @@
-<!-- Profile README for realattila -->
-<h1 align="center">Hi there! 👋 I'm Attila</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+Attila;Senior+Front-End+Engineer;Problem+Solver+%26+Mentor;React+%26+TypeScript+Expert" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/realattila">
+    <img src="https://img.shields.io/github/followers/realattila?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/twitter/follow/realattila?label=Follow&style=social" alt="Twitter Follow" />
+  </a>
+</div>
+
+<br/>
 
 <p align="center">
-A senior front‑end engineer and problem solver with 7+ years of experience crafting fast, accessible web applications.
+  <b>A senior front‑end engineer with 7+ years of experience crafting fast, accessible web applications.</b><br/>
+  I turn complex UI/UX concepts into clean, scalable web apps using React, TypeScript, and JavaScript.
 </p>
 
-## 🧑‍💻 About Me
+---
 
-- I turn complex UI/UX concepts into clean, scalable web apps using **React**, **TypeScript** and **JavaScript**.
-- I focus on performance and usability—optimizing load times and designing intuitive interfaces with Figma and design‑to‑code techniques.
-- I enjoy mentoring developers and building collaborative teams.
+<div align="center">
+  
+  <h3>🛠️ Tech Stack & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,nodejs,html,css,git,docker,linux,mongodb,figma,bash&perline=10" />
+  
+  <br/><br/>
 
-Over the years I’ve grown CRMs that increased active users by **120 %**, attracted **1,200 new customers** and generated **$3 k** in revenue. I migrated large codebases to TypeScript (reducing build times by **20 %**), boosted cloud service adoption by **43 %**, and drove a **150 %** surge in organic traffic through performance and SEO improvements.
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=realattila&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Realattila's GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realattila&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=realattila&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-## 🚀 Projects
+</div>
 
-- **[clean_git_commit_message](https://github.com/realattila/clean_git_commit_message)** – A Bash tool for generating and validating consistent Git commit messages. It installs easily on Windows/macOS/Linux and helps teams maintain clean, standardized commit histories.
+---
 
-## 🛠️ Skills
+### 🚀 Key Achievements
 
-- **Languages & Frameworks:** React, TypeScript, JavaScript, Next.js, Node.js, HTML5, CSS3
-- **Tools & Platforms:** Git, Docker, Linux, MongoDB, CI/CD
-- **Design & UX:** Figma, responsive design, accessibility
-- **Soft Skills:** Team leadership, mentoring, problem‑solving, Agile/Scrum
+| 📈 Metric | 🏆 Result |
+| :--- | :--- |
+| **User Growth** | Grew CRMs active users by **120%** & attracted **1,200+** new customers. |
+| **Revenue** | Generated **$3k** in revenue through optimization. |
+| **Performance** | Reduced build times by **20%** (TS migration) & boosted organic traffic by **150%**. |
+| **Cloud** | Boosted cloud service adoption by **43%**. |
 
-## 📫 Contact Me
+---
 
-- **Email:** [realattila2@pm.me](mailto:realattila2@pm.me)
-- **Website:** [realattila.github.io](https://realattila.github.io)
-- **LinkedIn:** [linkedin.com/in/attila-peykargalou](https://linkedin.com/in/attila-peykargalou)
+### 🌟 Featured Project
 
-Feel free to connect or reach out if you’d like to discuss front‑end development, open source, or collaboration opportunities!
+#### 💻 [clean_git_commit_message](https://github.com/realattila/clean_git_commit_message)
+> A Bash tool for generating and validating consistent Git commit messages. 
+> Installs easily on Windows/macOS/Linux and helps teams maintain clean, standardized commit histories.
+
+<p align="left">
+  <img src="https://img.shields.io/github/stars/realattila/clean_git_commit_message?style=for-the-badge&logo=github&color=blue" />
+  <img src="https://img.shields.io/github/forks/realattila/clean_git_commit_message?style=for-the-badge&logo=github&color=orange" />
+  <img src="https://img.shields.io/github/issues/realattila/clean_git_commit_message?style=for-the-badge&logo=github&color=red" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+<div align="center">
+  <a href="mailto:realattila2@pm.me">
+    <img src="https://img.shields.io/badge/Email-realattila2%40pm.me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/attila-peykargalou">
+    <img src="https://img.shields.io/badge/LinkedIn-Attila%20Peykargalou-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://realattila.github.io">
+    <img src="https://img.shields.io/badge/Website-Portfolio-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Website"/>
+  </a>
+</div>
