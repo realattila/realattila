@@ -6,8 +6,8 @@
   <a href="https://github.com/realattila">
     <img src="https://img.shields.io/github/followers/realattila?label=Followers&style=social" alt="GitHub Followers" />
   </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/twitter/follow/realattila?label=Follow&style=social" alt="Twitter Follow" />
+  <a href="https://t.me/realattila">
+    <img src="https://img.shields.io/badge/Telegram-@realattila-2CA5E0?style=social&logo=telegram" alt="Telegram" />
   </a>
 </div>
 
@@ -23,7 +23,7 @@
 <div align="center">
   
   <h3>🛠️ Tech Stack & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,nodejs,html,css,git,docker,linux,mongodb,figma,bash&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,html,css,tailwind,nodejs,nestjs,python,fastapi,postgres,mongodb,git,docker,linux,bash,figma&perline=10" />
   
   <br/><br/>
 
@@ -37,21 +37,29 @@
       </td>
     </tr>
   </table>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=realattila&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-### 🚀 Key Achievements
+### 🏆 Key Highlights & Impact
 
-| 📈 Metric | 🏆 Result |
-| :--- | :--- |
-| **User Growth** | Grew CRMs active users by **120%** & attracted **1,200+** new customers. |
-| **Revenue** | Generated **$3k** in revenue through optimization. |
-| **Performance** | Reduced build times by **20%** (TS migration) & boosted organic traffic by **150%**. |
-| **Cloud** | Boosted cloud service adoption by **43%**. |
+> *Building scalable solutions that drive real business results.*
+
+<div align="center">
+  
+| **User Acquisition** | **Performance Eng** | **Optimization** |
+|:---:|:---:|:---:|
+| 👥 **+1,200** Customers<br/>Generated via new CRM features | ⚡ **-20%** Debug Time<br/>Achieved by TS Migration | 📈 **+150%** Traffic<br/>Through SEO & Speed Ops |
+
+</div>
+
+<br/>
+
+- [cite_start]**Engineering Leadership:** Led the rewrite of core front-end systems at *Payping*, reducing PWA size by **4%** and streamlining CI/CD workflows[cite: 23, 24].
+- [cite_start]**Automation & Backend:** Developed an automated USDT payment system using **Node.js**, saving the accounting team **15%** of their operational time[cite: 28].
+- [cite_start]**Business Growth:** Drove a **120%** increase in CRM active users and **$3k+** in revenue through feature optimization[cite: 27].
+- [cite_start]**UX Transformation:** Redesigned customer portals to improve accessibility, directly correlating to a **43%** rise in cloud service usage[cite: 32].
 
 ---
 
@@ -80,5 +88,8 @@
   </a>
   <a href="https://realattila.github.io">
     <img src="https://img.shields.io/badge/Website-Portfolio-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Website"/>
+  </a>
+  <a href="https://t.me/realattila">
+    <img src="https://img.shields.io/badge/Telegram-@realattila-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
