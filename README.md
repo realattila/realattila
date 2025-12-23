@@ -42,27 +42,6 @@
 
 ---
 
-### 🏆 Key Highlights & Impact
-
-> *Building scalable solutions that drive real business results.*
-
-<div align="center">
-  
-| **User Acquisition** | **Performance Eng** | **Optimization** |
-|:---:|:---:|:---:|
-| 👥 **+1,200** Customers<br/>Generated via new CRM features | ⚡ **-20%** Debug Time<br/>Achieved by TS Migration | 📈 **+150%** Traffic<br/>Through SEO & Speed Ops |
-
-</div>
-
-<br/>
-
-- [cite_start]**Engineering Leadership:** Led the rewrite of core front-end systems at *Payping*, reducing PWA size by **4%** and streamlining CI/CD workflows[cite: 23, 24].
-- [cite_start]**Automation & Backend:** Developed an automated USDT payment system using **Node.js**, saving the accounting team **15%** of their operational time[cite: 28].
-- [cite_start]**Business Growth:** Drove a **120%** increase in CRM active users and **$3k+** in revenue through feature optimization[cite: 27].
-- [cite_start]**UX Transformation:** Redesigned customer portals to improve accessibility, directly correlating to a **43%** rise in cloud service usage[cite: 32].
-
----
-
 ### 🌟 Featured Project
 
 #### 💻 [clean_git_commit_message](https://github.com/realattila/clean_git_commit_message)
@@ -93,3 +72,24 @@
     <img src="https://img.shields.io/badge/Telegram-@realattila-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
+
+---
+
+### 🏆 Key Highlights & Impact
+
+> *Building scalable solutions that drive real business results.*
+
+<div align="center">
+  
+| **User Acquisition** | **Performance Eng** | **Optimization** |
+|:---:|:---:|:---:|
+| 👥 **+1,200** Customers<br/>Generated via new CRM features | ⚡ **-20%** Debug Time<br/>Achieved by TS Migration | 📈 **+150%** Traffic<br/>Through SEO & Speed Ops |
+
+</div>
+
+<br/>
+
+- **Engineering Leadership:** Led the rewrite of core front-end systems at *Payping*, reducing PWA size by **4%** and streamlining CI/CD workflows.
+- **Automation & Backend:** Developed an automated USDT payment system using **Node.js**, saving the accounting team **15%** of their operational time.
+- **Business Growth:** Drove a **120%** increase in CRM active users and **$3k+** in revenue through feature optimization.
+- **UX Transformation:** Redesigned customer portals to improve accessibility, directly correlating to a **43%** rise in cloud service usage.
